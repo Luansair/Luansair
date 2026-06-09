@@ -1,4 +1,3 @@
-## Hi there 👋
 # ¡Hola! 👋 Soy Luan Shair Corrionero
 
 ### Estudiante de Ingeniería en Sistemas | Apasionado por C++, Datos y Videojuegos
