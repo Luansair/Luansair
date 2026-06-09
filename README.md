@@ -67,7 +67,6 @@ Soy estudiante de **Ingeniería en Sistemas** (UBA) con pasión por el **desarro
 
 - **C/C++** ⭐ (Principal - Bajo nivel, sistemas, juegos)
 - **Python** (Análisis de datos, scripting)
-- **SQL** (Consultas y bases de datos)
 - **Java** (Conocimientos básicos)
 
 ### Herramientas y Tecnologías
@@ -89,14 +88,13 @@ Soy estudiante de **Ingeniería en Sistemas** (UBA) con pasión por el **desarro
 ## 📚 Formación
 
 - **Ingeniería en Sistemas** - UBA (En curso)
-- **Paradigmas de Programación** - UTN (En curso)
 - **Desarrollo de Software Distribuido** - UTN (En curso)
 
 ---
 
 ## 💡 Lo que aporto
 
-- ✅ **Capacidad de aprendizaje rápido** - Demuestro cómo aprendo y aplic nuevos conceptos
+- ✅ **Capacidad de aprendizaje rápido** - Demuestro cómo aprendo y aplico nuevos conceptos
 - ✅ **Pensamiento lógico-matemático** - Base sólida de ingeniería
 - ✅ **Trabajo en equipo** - Experiencia en proyectos grupales
 - ✅ **Compromiso y responsabilidad** - Proyectos completados y documentados
@@ -115,25 +113,4 @@ Soy estudiante de **Ingeniería en Sistemas** (UBA) con pasión por el **desarro
 
 ## 📫 Contacto
 
-- **LinkedIn**: [Tu perfil](https://linkedin.com/in/tu-enlace)
-- **Email**: tu.email@ejemplo.com
-- **Portafolio de Datos**: [data-analysis-portfolio](https://github.com/Luansair/data-analysis-portfolio)
-- **Proyecto C++**: [Left4Dead](https://github.com/Luansair/Taller1-TP-Left4Dead)
-
----
-
-## 🌟 Curiosidades
-
-- 🎮 **Gamer empedernido** - Los videojuegos me inspiraron a programar
-- 📖 **Autodidacta** - Gran parte de mi aprendizaje en C++ fue por cuenta propia
-- 🎵 **Música mientras código** - Siempre con buenos playlists de fondo
-- 🧩 **Amante de los puzzles** - Me fascinan los problemas complejos de resolver
-
----
-
-> _"La programación no se trata de lo que sabes, sino de lo que puedes aprender."_
-
-**🔭 Actualmente**: Terminando materias de la carrera y buscando oportunidades laborales
-**🌱 Aprendiendo**: Desarrollo de software distribuido y arquitecturas backend
-**💬 Pregúntame sobre**: C++, análisis de datos, o cómo hacer un juego desde cero
-**⚡ Dato curioso**: Mi primer programa fue una calculadora en C que tardé 3 días en hacer funcionar 😅
+- **LinkedIn**: [Luan Shair Corrionero](https://www.linkedin.com/in/luan-shair-corrionero-20bb00207/)
