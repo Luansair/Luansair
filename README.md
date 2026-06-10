@@ -36,9 +36,7 @@ Estudiante de **Ingeniería en Sistemas** (UBA) enfocado en **desarrollo de bajo
 
 - Proyecto grupal de Algoritmos III (FIUBA) - 5 integrantes
 - Arquitectura en capas con testing profesional (JUnit, Mockito, ArchUnit)
-- CI/CD con GitHub Actions, CodeQL y JaCoCo para cobertura de tests
-- Dockerizado y con releases automáticos con versionado semántico
-- **Contribuciones**:
+- **Mis contribuciones**:
   - Implementación de lógica de validación de mapa y sistema de puntajes
   - Refactorización y mejora de legibilidad del código
   - Testing y documentación del proyecto
@@ -77,17 +75,14 @@ Estudiante de **Ingeniería en Sistemas** (UBA) enfocado en **desarrollo de bajo
 ### Lenguajes
 
 - **C/C++** (Principal - Bajo nivel, sistemas, juegos)
-- **Java** (Proyecto académico con testing profesional y CI/CD)
+- **Java** (Proyecto académico con testing profesional)
 - **Python** (Análisis de datos, scripting)
-- **SQL** (Consultas y bases de datos)
 
 ### Herramientas y Tecnologías
 
 - **Sistemas**: Sockets, Threads, CMake, Qt
 - **Datos**: Pandas, PySpark, Scikit-learn, Jupyter
-- **Build & CI/CD**: Maven, GitHub Actions, JaCoCo, CodeQL
 - **Testing**: JUnit 5, Mockito, ArchUnit
-- **Containerización**: Docker
 - **Control de Versiones**: Git, GitHub
 
 ### En Aprendizaje
