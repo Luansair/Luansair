@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Luan Shair Corrionero
+# Luan Shair Corrionero
 
 ### Desarrollador en Formación | Bajo Nivel & Análisis de Datos | Estudiante de Ingeniería en Sistemas
 
@@ -9,20 +9,20 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy estudiante de **Ingeniería en Sistemas** (UBA) con pasión por el **desarrollo de bajo nivel** y el **análisis de datos**. Actualmente en búsqueda de mi primera oportunidad laboral donde pueda aportar y crecer profesionalmente.
+Estudiante de **Ingeniería en Sistemas** (UBA) enfocado en **desarrollo de bajo nivel** y **análisis de datos**. Busco mi primera oportunidad laboral donde pueda aportar y crecer profesionalmente.
 
-### 🎯 Mis principales áreas de interés:
+### 🎯 Áreas de interés:
 
-1. **🔧 Bajo Nivel (C/C++)** - Mi mayor pasión
+1. **🔧 Bajo Nivel (C/C++)**
    - Desarrollo de sistemas, optimización y comprensión profunda del hardware
    - Experiencia con **sockets, threads, CMake y Qt**
 
-2. **📊 Análisis de Datos** - Segundo gran interés
+2. **📊 Análisis de Datos**
    - Procesamiento y análisis con **Python, Pandas, Spark**
    - Machine learning básico y visualización de datos
    - [Ver portafolio completo](https://github.com/Luansair/data-analysis-portfolio)
 
-3. **🌐 Backend** - En aprendizaje activo
+3. **🌐 Backend**
    - Desarrollo de APIs y sistemas distribuidos
    - Actualmente cursando **DDSo en UTN**
 
@@ -30,22 +30,20 @@ Soy estudiante de **Ingeniería en Sistemas** (UBA) con pasión por el **desarro
 
 ## 🚀 Proyectos Destacados
 
-### 🏆 Aplicación GPS Challenge (Java + JavaFX) - **Contribuidor Principal**
+### Aplicación GPS Challenge (Java + JavaFX)
 
 **[2c2022_algo3_tp2](https://github.com/Luansair/2c2022_algo3_tp2)**
 
-- **Rol**: Contribuidor principal (27 commits, ~27% del proyecto - 1° lugar en el equipo)
 - Proyecto grupal de Algoritmos III (FIUBA) - 5 integrantes
 - Arquitectura en capas con testing profesional (JUnit, Mockito, ArchUnit)
 - CI/CD con GitHub Actions, CodeQL y JaCoCo para cobertura de tests
 - Dockerizado y con releases automáticos con versionado semántico
-- **Contribuciones destacadas**:
+- **Contribuciones**:
   - Implementación de lógica de validación de mapa y sistema de puntajes
   - Refactorización y mejora de legibilidad del código
   - Testing y documentación del proyecto
-- _Este proyecto demuestra mis habilidades en Java a nivel profesional, trabajo en equipo y liderazgo técnico_
 
-### 🎮 Juego Online 2.5D en C++ (Proyecto Estrella)
+### Juego Online 2.5D en C++
 
 **[Taller1-TP-Left4Dead](https://github.com/Luansair/Taller1-TP-Left4Dead)**
 
@@ -54,9 +52,8 @@ Soy estudiante de **Ingeniería en Sistemas** (UBA) con pasión por el **desarro
 - Gestión de **threads** para concurrencia
 - Build system con **CMake**
 - Interfaz gráfica con **Qt**
-- _Este proyecto demuestra mis habilidades en programación de bajo nivel y sistemas complejos_
 
-### 📈 Portafolio de Análisis de Datos
+### Portafolio de Análisis de Datos
 
 **[data-analysis-portfolio](https://github.com/Luansair/data-analysis-portfolio)**
 
@@ -66,13 +63,12 @@ Soy estudiante de **Ingeniería en Sistemas** (UBA) con pasión por el **desarro
 - Modelos de **Machine Learning** (perceptrón, clasificación)
 - Visualizaciones con **Matplotlib, Seaborn y Plotly**
 
-### 🌐 Backend - DDSo UTN
+### Backend - DDSo UTN
 
 **[2026-1C-MA-TN-grupo-03](https://github.com/ddso-utn/2026-1C-MA-TN-grupo-03/tree/ENTREGA-2)**
 
 - Proyecto académico de **Desarrollo de Software Distribuido**
 - Desarrollo de backend con arquitecturas distribuidas
-- _En progreso - aprendiendo sobre sistemas escalables_
 
 ---
 
@@ -80,8 +76,8 @@ Soy estudiante de **Ingeniería en Sistemas** (UBA) con pasión por el **desarro
 
 ### Lenguajes
 
-- **C/C++** ⭐ (Principal - Bajo nivel, sistemas, juegos)
-- **Java** (Nivel intermedio - Proyecto académico con testing profesional y CI/CD)
+- **C/C++** (Principal - Bajo nivel, sistemas, juegos)
+- **Java** (Proyecto académico con testing profesional y CI/CD)
 - **Python** (Análisis de datos, scripting)
 - **SQL** (Consultas y bases de datos)
 
@@ -109,48 +105,22 @@ Soy estudiante de **Ingeniería en Sistemas** (UBA) con pasión por el **desarro
 
 ---
 
-## 💡 Lo que aporto
+## 💡 Habilidades
 
-- ✅ **Liderazgo técnico** - Contribuidor principal en proyecto grupal de 5 personas
-- ✅ **Capacidad de aprendizaje rápido** - Demuestro cómo aprendo y aplico nuevos conceptos
-- ✅ **Pensamiento lógico-matemático** - Base sólida de ingeniería
-- ✅ **Trabajo en equipo** - Experiencia en proyectos grupales
-- ✅ **Compromiso y responsabilidad** - Proyectos completados y documentados
-- ✅ **Pasión por la tecnología** - Me motiva resolver problemas complejos
+- **Trabajo en equipo** - Experiencia en proyectos grupales
+- **Capacidad de aprendizaje** - Aplicación de nuevos conceptos
+- **Compromiso** - Proyectos completados y documentados
+- **Resolución de problemas** - Enfoque en problemas complejos
 
 ---
 
-## 🎯 Busco
+## 🎯 Búsqueda Laboral
 
 - **Primera experiencia laboral** en desarrollo de software
 - Oportunidades en **C/C++**, **Java**, **análisis de datos** o **backend**
 - Entornos donde pueda **aprender y crecer** profesionalmente
-- Proyectos desafiantes que me permitan **aportar valor**
 
 ---
-
-## 📫 Contacto
-
-- **LinkedIn**: [Luan Shair Corrionero](https://www.linkedin.com/in/luan-shair-corrionero-20bb00207/)
-- **Email**: tu.email@ejemplo.com
-- **Portafolio de Datos**: [data-analysis-portfolio](https://github.com/Luansair/data-analysis-portfolio)
-- **Proyecto C++**: [Left4Dead](https://github.com/Luansair/Taller1-TP-Left4Dead)
-- **Proyecto Java**: [GPS Challenge](https://github.com/Luansair/2c2022_algo3_tp2)
-
----
-
-## 🌟 Curiosidades
-
-- 🎮 **Gamer empedernido** - Los videojuegos me inspiraron a programar
-- 📖 **Autodidacta** - Gran parte de mi aprendizaje en C++ fue por cuenta propia
-- 5 **Música mientras código** - Siempre con buenos playlists de fondo
-- 🧩 **Amante de los puzzles** - Me fascinan los problemas complejos de resolver
-
----
-
-> _"La programación no se trata de lo que sabes, sino de lo que puedes aprender."_
 
 **🔭 Actualmente**: Terminando materias de la carrera y buscando oportunidades laborales
-**🌱 Aprendiendo**: Desarrollo de software distribuido y arquitecturas backend
-**💬 Pregúntame sobre**: C++, Java, análisis de datos, o cómo hacer un juego desde cero
-**⚡ Dato curioso**: Mi primer programa fue una calculadora en C que tardé 3 días en hacer funcionar 😅
+** Aprendiendo**: Desarrollo de software distribuido y arquitecturas backend
