@@ -3,7 +3,6 @@
 ### Desarrollador en Formación | Bajo Nivel & Análisis de Datos | Estudiante de Ingeniería en Sistemas
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://www.linkedin.com/in/luan-shair-corrionero-20bb00207/)
-[![GitHub](https://img.shields.io/badge/GitHub-Luansair-181717)](https://github.com/Luansair)
 
 ---
 
