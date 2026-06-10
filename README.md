@@ -30,6 +30,21 @@ Soy estudiante de **Ingeniería en Sistemas** (UBA) con pasión por el **desarro
 
 ## 🚀 Proyectos Destacados
 
+### 🏆 Aplicación GPS Challenge (Java + JavaFX) - **Contribuidor Principal**
+
+**[2c2022_algo3_tp2](https://github.com/Luansair/2c2022_algo3_tp2)**
+
+- **Rol**: Contribuidor principal (27 commits, ~27% del proyecto - 1° lugar en el equipo)
+- Proyecto grupal de Algoritmos III (FIUBA) - 5 integrantes
+- Arquitectura en capas con testing profesional (JUnit, Mockito, ArchUnit)
+- CI/CD con GitHub Actions, CodeQL y JaCoCo para cobertura de tests
+- Dockerizado y con releases automáticos con versionado semántico
+- **Contribuciones destacadas**:
+  - Implementación de lógica de validación de mapa y sistema de puntajes
+  - Refactorización y mejora de legibilidad del código
+  - Testing y documentación del proyecto
+- _Este proyecto demuestra mis habilidades en Java a nivel profesional, trabajo en equipo y liderazgo técnico_
+
 ### 🎮 Juego Online 2.5D en C++ (Proyecto Estrella)
 
 **[Taller1-TP-Left4Dead](https://github.com/Luansair/Taller1-TP-Left4Dead)**
@@ -66,21 +81,23 @@ Soy estudiante de **Ingeniería en Sistemas** (UBA) con pasión por el **desarro
 ### Lenguajes
 
 - **C/C++** ⭐ (Principal - Bajo nivel, sistemas, juegos)
+- **Java** (Nivel intermedio - Proyecto académico con testing profesional y CI/CD)
 - **Python** (Análisis de datos, scripting)
-- **Java** (Conocimientos básicos)
+- **SQL** (Consultas y bases de datos)
 
 ### Herramientas y Tecnologías
 
 - **Sistemas**: Sockets, Threads, CMake, Qt
 - **Datos**: Pandas, PySpark, Scikit-learn, Jupyter
+- **Build & CI/CD**: Maven, GitHub Actions, JaCoCo, CodeQL
+- **Testing**: JUnit 5, Mockito, ArchUnit
+- **Containerización**: Docker
 - **Control de Versiones**: Git, GitHub
-- **Backend**: (En aprendizaje - Node.js/Python)
 
 ### En Aprendizaje
 
 - Arquitecturas distribuidas
 - Desarrollo de APIs REST
-- Contenedores (Docker)
 - Bases de datos NoSQL
 
 ---
@@ -94,6 +111,7 @@ Soy estudiante de **Ingeniería en Sistemas** (UBA) con pasión por el **desarro
 
 ## 💡 Lo que aporto
 
+- ✅ **Liderazgo técnico** - Contribuidor principal en proyecto grupal de 5 personas
 - ✅ **Capacidad de aprendizaje rápido** - Demuestro cómo aprendo y aplico nuevos conceptos
 - ✅ **Pensamiento lógico-matemático** - Base sólida de ingeniería
 - ✅ **Trabajo en equipo** - Experiencia en proyectos grupales
@@ -105,7 +123,7 @@ Soy estudiante de **Ingeniería en Sistemas** (UBA) con pasión por el **desarro
 ## 🎯 Busco
 
 - **Primera experiencia laboral** en desarrollo de software
-- Oportunidades en **C/C++**, **análisis de datos** o **backend**
+- Oportunidades en **C/C++**, **Java**, **análisis de datos** o **backend**
 - Entornos donde pueda **aprender y crecer** profesionalmente
 - Proyectos desafiantes que me permitan **aportar valor**
 
@@ -114,3 +132,25 @@ Soy estudiante de **Ingeniería en Sistemas** (UBA) con pasión por el **desarro
 ## 📫 Contacto
 
 - **LinkedIn**: [Luan Shair Corrionero](https://www.linkedin.com/in/luan-shair-corrionero-20bb00207/)
+- **Email**: tu.email@ejemplo.com
+- **Portafolio de Datos**: [data-analysis-portfolio](https://github.com/Luansair/data-analysis-portfolio)
+- **Proyecto C++**: [Left4Dead](https://github.com/Luansair/Taller1-TP-Left4Dead)
+- **Proyecto Java**: [GPS Challenge](https://github.com/Luansair/2c2022_algo3_tp2)
+
+---
+
+## 🌟 Curiosidades
+
+- 🎮 **Gamer empedernido** - Los videojuegos me inspiraron a programar
+- 📖 **Autodidacta** - Gran parte de mi aprendizaje en C++ fue por cuenta propia
+- 5 **Música mientras código** - Siempre con buenos playlists de fondo
+- 🧩 **Amante de los puzzles** - Me fascinan los problemas complejos de resolver
+
+---
+
+> _"La programación no se trata de lo que sabes, sino de lo que puedes aprender."_
+
+**🔭 Actualmente**: Terminando materias de la carrera y buscando oportunidades laborales
+**🌱 Aprendiendo**: Desarrollo de software distribuido y arquitecturas backend
+**💬 Pregúntame sobre**: C++, Java, análisis de datos, o cómo hacer un juego desde cero
+**⚡ Dato curioso**: Mi primer programa fue una calculadora en C que tardé 3 días en hacer funcionar 😅
