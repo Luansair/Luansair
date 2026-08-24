@@ -8,7 +8,7 @@
 
 ## 👨‍💻 Sobre mí
 
-Estudiante de **Ingeniería en Sistemas** (UBA) enfocado en **desarrollo de bajo nivel** y **análisis de datos**. Busco mi primera oportunidad laboral donde pueda aportar y crecer profesionalmente.
+Estudiante de **Ingeniería en Sistemas** (UBA y UTN) enfocado en **desarrollo de bajo nivel** y **análisis de datos**. Busco mi primera oportunidad laboral donde pueda aportar y crecer profesionalmente.
 
 ### 🎯 Áreas de interés:
 
@@ -23,7 +23,6 @@ Estudiante de **Ingeniería en Sistemas** (UBA) enfocado en **desarrollo de bajo
 
 3. **🌐 Backend**
    - Desarrollo de APIs y sistemas distribuidos
-   - Actualmente cursando **DDSo en UTN**
 
 ---
 
@@ -62,8 +61,6 @@ Estudiante de **Ingeniería en Sistemas** (UBA) enfocado en **desarrollo de bajo
 
 ### Backend - DDSo UTN
 
-**[2026-1C-MA-TN-grupo-03](https://github.com/ddso-utn/2026-1C-MA-TN-grupo-03/tree/ENTREGA-2)**
-
 - Proyecto académico de **Desarrollo de Software Distribuido**
 - Desarrollo de backend con arquitecturas distribuidas
 
@@ -83,28 +80,20 @@ Estudiante de **Ingeniería en Sistemas** (UBA) enfocado en **desarrollo de bajo
 - **Datos**: Pandas, PySpark, Scikit-learn, Jupyter
 - **Testing**: JUnit 5, Mockito, ArchUnit
 - **Control de Versiones**: Git, GitHub
-
-### En Aprendizaje
-
 - Arquitecturas distribuidas
 - Desarrollo de APIs REST
 - Bases de datos NoSQL
+
+### En Aprendizaje
+
+- Técnicas de computación gráfica
 
 ---
 
 ## 📚 Formación
 
 - **Ingeniería en Sistemas** - UBA (En curso)
-- **Desarrollo de Software Distribuido** - UTN (En curso)
-
----
-
-## 💡 Habilidades
-
-- **Trabajo en equipo** - Experiencia en proyectos grupales
-- **Capacidad de aprendizaje** - Aplicación de nuevos conceptos
-- **Compromiso** - Proyectos completados y documentados
-- **Resolución de problemas** - Enfoque en problemas complejos
+- **Ingeniería en Sistemas** - UTN (En curso)
 
 ---
 
@@ -117,4 +106,3 @@ Estudiante de **Ingeniería en Sistemas** (UBA) enfocado en **desarrollo de bajo
 ---
 
 **🔭 Actualmente**: Terminando materias de la carrera y buscando oportunidades laborales
-** Aprendiendo**: Desarrollo de software distribuido y arquitecturas backend
