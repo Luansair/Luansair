@@ -28,7 +28,7 @@ Estudiante de **Ingeniería en Sistemas** (UBA y UTN) enfocado en **desarrollo d
 
 ## 🚀 Proyectos Destacados
 
-### Aplicación GPS Challenge (Java + JavaFX)
+### Juego GPS Challenge (Java + JavaFX)
 
 **[2c2022_algo3_tp2](https://github.com/Luansair/2c2022_algo3_tp2)**
 
